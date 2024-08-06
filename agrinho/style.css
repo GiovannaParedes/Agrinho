@@ -1,0 +1,104 @@
+@import url("Styles/maça.css");
+
+:root{
+    --cor-do-titulo: #000000;
+    --cor-de-fundo: #8af547;
+    --cor-de-bordas: #fab3f3;
+    --cor-de-topicos: #8800ff;
+    --fonte-primaria: "kalam";
+}
+
+
+
+.corpo{
+    background-color: var(--cor-de-bordas);
+    height: 9em;
+    align-self: center;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+}
+
+.inicio{
+    background-color: var(--cor-de-fundo);
+    height: 53em;
+    border-radius: 2em;
+}
+
+.rascunho{
+    padding-bottom: 5em;
+    padding-left: 42em;
+}
+.inicio_Q1{
+    text-align: center;
+    font-family: var(--fonte-primaria);
+    padding-top: 2em;
+}
+
+
+.inicio_f1{
+    text-align: left;
+    padding: 1em;
+    font-family: var(--fonte-primaria);
+    padding-left: 2em;
+}
+
+.meio{
+    background: var(--cor-de-fundo);
+    border-radius: 2em;
+}
+.inicio_Q2{
+    text-align: center;
+    font-family: var(--fonte-primaria);
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 6em;
+}
+
+.inicio_f2{
+    text-align: center;
+    font-family: var(--fonte-primaria);
+    padding-left: 2em;
+}
+
+.objetivo{
+    font-family: var(--fonte-primaria);
+    padding-left: 2em;
+}
+.resposta{
+    font-family: var(--fonte-primaria);
+    padding-left: 2em;}
+    
+.concluido{
+    font-family: var(--fonte-primaria);
+    padding-left: 2em;}
+
+.feira{
+    padding-bottom: 5em;
+    padding-left: 31em;
+}
+
+.section{
+    background-color: var(--cor-de-fundo);
+    height: 30-em;
+    border-radius: 2em;
+}
+.CECMPV{
+    text-align: center;
+    font-family: var(--fonte-primaria);
+}
+
+.gg{
+    text-align: center;
+    font-family: var(--fonte-primaria);
+}
+
+.gato{
+    padding-left:37em;
+}
+
+.nome{
+    text-align: right;
+    padding-right: 1em;
+    font-family: var(--fonte-primaria);
+}
